@@ -1,1 +1,2 @@
 Stripe.api_key = ENV["SECRET_KEY"]
+PUBLIC_KEY= ENV["PUBLISH_KEY"]
