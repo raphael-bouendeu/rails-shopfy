@@ -8,7 +8,7 @@ def create
   line_items: [
      {
      name:product.name,
-     amount:product.price,
+     amout:product.price,
      currency:"usd",
      quantity:1
     }],
